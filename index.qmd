@@ -1,0 +1,6 @@
+# Welcome {.unnumbered}
+
+This lab notebook is a collaborative effort from all size ecolgy lab members led by Prof Julia Blanchard.
+It includes info on lab meetings, administration, data-storage, open data-science, R programming, writing skills and GitHub.
+
+## Acknowledgements {.unnumbered}
