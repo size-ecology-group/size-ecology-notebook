@@ -1,6 +1,8 @@
 # Welcome {.unnumbered}
 
-This lab notebook is a collaborative effort from all size ecolgy lab members led by Prof Julia Blanchard.
-It includes info on lab meetings, administration, data-storage, open data-science, R programming, writing skills and GitHub.
+This lab notebook is a collaborative effort by all size ecology lab members led by [Prof Julia Blanchard](https://www.utas.edu.au/profiles/staff/imas/julia-blanchard) at the [Institute for Marine and Antarctic Studies](https://www.imas.utas.edu.au/), [University of Tasmania](https://www.utas.edu.au/).
+This lab notebook includes information on lab meetings, administration, data-storage, open data-science, R programming, Mizer R package, writing skills and GitHub.
 
 ## Acknowledgements {.unnumbered}
+
+insert any if necessary

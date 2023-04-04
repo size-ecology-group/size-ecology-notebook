@@ -3,37 +3,25 @@ project:
   output-dir: _book
 
 book:
-  title: "R for Data Science (2e)"
+  title: "Size ecology lab notebook"
   reader-mode: true
 
   page-footer:
-    left: |
-      R for Data Science (2e) was written by Hadley Wickham, Mine
-      Çetinkaya-Rundel, and Garrett Grolemund.
     right: |
       This book was built with <a href="https://quarto.org/">Quarto</a>.
-  cover-image: cover.png
-  favicon: cover.png
-  site-url: https://r4ds.hadley.nz/
-  repo-url: https://github.com/hadley/r4ds/
-  repo-branch: main
-  repo-actions: [edit, issue]
+#cover-image: cover.png
+#favicon: cover.png
+#site-url:
+#repo-url:
+#repo-branch: main
+#repo-actions: [edit, issue]
   chapters:
     - index.qmd
-
-    - preface-2e.qmd
     - intro.qmd
-
-  # - part: whole-game.qmd Subsections here
-  #   chapters:
-
-
-  # - part: whole-game.qmd Subsections here
-  #   chapters:
-   # - part: whole-game.qmd Subsections here
-  #   chapters:
-
-
+    - sizeecology.qmd
+    - part: toolsintro.qmd
+      chapters:
+        - usefultools.qmd
 format:
   html:
     theme:
@@ -42,7 +30,7 @@ format:
     code-link: true
 
     author-meta: "Size ecology lab members"
-    include-in-header: "plausible.html"
+    include-in-header: "publishquartobook.html"
     callout-appearance: simple
 
 editor: visual

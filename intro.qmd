@@ -1,45 +1,10 @@
-# What we do  {#sec-intro}
+# What we do {#sec-intro}
 
-```{r}
-#| results: "asis"
-#| echo: false
-```
-
-If you are new to our lab, best place to start would be check out our lab website (insert link).
+If you are new to our lab, best place to start would be check out our [lab website](https://www.sizeecology.org/)
 
 Size ecology lab members work on a diverse range of topics.
 
-e data, not fighting to get the data into the right form for different functions.
-
-Once you have tidy data, a common next step is to **transform** it.
-Transformation includes narrowing in on observations of interest (like all people in one city or all data from the last year), creating new variables that are functions of existing variables (like computing speed from distance and time), and calculating a set of summary statistics (like counts or means).
-Together, tidying and transforming are called **wrangling** because getting your data in a form that's natural to work with often feels like a fight!
-
-Once you have tidy data with the variables you need, there are two main engines of knowledge generation: visualization and modeling.
-These have complementary strengths and weaknesses, so any real data analysis will iterate between them many times.
-
-**Visualization** is a fundamentally human activity.
-A good visualization will show you things you did not expect or raise new questions about the data.
-A good visualization might also hint that you're asking the wrong question or that you need to collect different data.
-Visualizations can surprise you, but they don't scale particularly well because they require a human to interpret them.
-
-**Models** are complementary tools to visualization.
-Once you have made your questions sufficiently precise, you can use a model to answer them.
-Models are a fundamentally mathematical or computational tool, so they generally scale well.
-Even when they don't, it's usually cheaper to buy more computers than it is to buy more brains!
-But every model makes assumptions, and by its very nature a model cannot question its own assumptions.
-That means a model cannot fundamentally surprise you.
-
-The last step of data science is **communication**, an absolutely critical part of any data analysis project.
-It doesn't matter how well your models and visualization have led you to understand the data unless you can also communicate your results to others.
-
-Surrounding all these tools is **programming**.
-Programming is a cross-cutting tool that you use in nearly every part of a data science project.
-You don't need to be an expert programmer to be a successful data scientist, but learning more about programming pays off because becoming a better programmer allows you to automate common tasks and solve new problems with greater ease.
-
-You'll use these tools in every data science project, but they're not enough for most projects.
-There's a rough 80-20 rule at play; you can tackle about 80% of every project using the tools you'll learn in this book, but you'll need other tools to tackle the remaining 20%.
-Throughout this book, we'll point you to resources where you can learn more.
+**Lab members to contribute their work in this section (make sure we are specific and not duplicate stuff on website- keep this more technical)**
 
 ## Lab meetings
 
@@ -56,7 +21,7 @@ To organise any presentations, general discussions or simply make suggestions on
 
 ### Lab communication
 
-#### Emails: 
+#### Emails:
 
 Weekly meeting reminders and other formal communications are done via email.
 If you want to be added to this list, send Sowdamini an email.
@@ -65,7 +30,7 @@ If you want to be added to this list, send Sowdamini an email.
 
 We currently have a zoom channel and slack (ok with J re slack channel first)
 
-### Code of Conduct 
+### Code of Conduct
 
 #### Ethos
 
@@ -88,7 +53,7 @@ We are here to support each other as scientists and recognise that we all contin
 #### Communication and Transparency
 
 Open and honest communication is key to a healthy work environment. 
-We encourage treating others\' actions and words with generosity.
+We encourage treating others' actions and words with generosity.
 Providing somebody the opportunity to clarify a comment can be an effective way to prevent interpersonal issues in the first instance.
 Should an issue be unresolved among parties, please feel free to talk to a trusted lab member or supervisor to help provide guidance.
 We want to ensure we create a space where everyone feels safe and supported.
@@ -103,6 +68,6 @@ There is never a reason to falsely manipulate, steal, or hide data and findings.
 
 A good work-life balance means you have harmony between different aspects of your life.
 The benefits gained from each area support and strengthen the others.
-We believe that a good work-life balance is instrumental to your overall wellbeing and recognise that \'work-life balance\' means different things to different people, so, we encourage you to discuss your individual needs[\[RC1\]](#_msocom_1)  and arrangements to facilitate a work-life balance arrangement that works best for you.
+We believe that a good work-life balance is instrumental to your overall wellbeing and recognise that 'work-life balance' means different things to different people, so, we encourage you to discuss your individual needs[\[RC1\]](#_msocom_1)  and arrangements to facilitate a work-life balance arrangement that works best for you.
 The university has various types of support available to help employees and students navigate the stress of daily life and academia.
 A compilation of resources and contacts is [here](https://universitytasmania-my.sharepoint.com/:x:/g/personal/julia_blanchard_utas_edu_au/EaxVaVhr6i9MnRYiUDmXhRcB1C-wnojbu3v_yazRm1qF_Q?e=BlMB1c).
