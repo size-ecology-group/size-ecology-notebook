@@ -1,0 +1,31 @@
+{
+    "id": "74D7D903",
+    "path": "~/RSTUDIO/size-ecology-notebook/intro.qmd",
+    "project_path": "intro.qmd",
+    "type": "quarto_markdown",
+    "hash": "1537241365",
+    "contents": "",
+    "dirty": false,
+    "created": 1680571152454.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "cursorPosition": "101,0",
+        "scrollLine": "0",
+        "rmdVisualModeLocation": "6204:3594.666748046875",
+        "rmdVisualCollapsedChunks": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1680596966,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1680596966607,
+    "read_only": false,
+    "read_only_alternatives": []
+}
