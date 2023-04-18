@@ -2,6 +2,6 @@
 title: "Introduction to different data analysis and visualisation tools"
 ---
 
-*insert short on different apps and tools the lab groups use*
+*insert short intro on different apps and tools the lab groups use*
 
-Contributors: Julia, Rich, Asta,
+Contributors: Julia, Rich, Asta?
