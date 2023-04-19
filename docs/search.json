@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Size ecology lab notebook",
+    "title": "",
     "section": "",
-    "text": "Welcome\nThis lab notebook is a collaborative effort by all size ecology lab members led by Prof Julia Blanchard at the Institute for Marine and Antarctic Studies, University of Tasmania. This lab notebook includes information on lab meetings, administration, data-storage, open data-science, R programming, Mizer R package, writing skills and GitHub."
+    "text": "This lab notebook is a collaborative effort by all size ecology lab members led by Prof Julia Blanchard at the Institute for Marine and Antarctic Studies, University of Tasmania. This lab notebook includes information on lab meetings, administration, data-storage, open data-science, R programming, Mizer R package, writing skills and GitHub.\n\n\ninsert any if necessary"
   },
   {
     "objectID": "index.html#acknowledgements",
@@ -12,13 +12,6 @@
     "title": "Size ecology lab notebook",
     "section": "Acknowledgements",
     "text": "Acknowledgements\ninsert any if necessary"
-  },
-  {
-    "objectID": "toolsintro.html",
-    "href": "toolsintro.html",
-    "title": "Introduction to different data analysis and visualisation tools",
-    "section": "",
-    "text": "insert short intro on different apps and tools the lab groups use\nContributors: Julia, Rich, Asta?"
   },
   {
     "objectID": "intro.html#lab-meetings",
@@ -40,6 +33,13 @@
     "title": "2  What is size based ecology?",
     "section": "",
     "text": "Insert blurb on size based ecology: Julia and anyone else who uses Size based modelling\nContributors: add names here"
+  },
+  {
+    "objectID": "toolsintro.html",
+    "href": "toolsintro.html",
+    "title": "Introduction to different data analysis and visualisation tools",
+    "section": "",
+    "text": "insert short on different apps and tools the lab groups use\nContributors: Julia, Rich, Asta,"
   },
   {
     "objectID": "usefultools.html#r-programmingr-studio",
