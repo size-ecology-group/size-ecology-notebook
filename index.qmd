@@ -5,4 +5,4 @@ This lab notebook includes information on lab meetings, administration, data-sto
 
 ## Acknowledgements {.unnumbered}
 
-insert any if necessary
+This lab notebook is a collaborative effort by all members of the [Size ecology lab](https://www.sizeecology.org/) led by [Prof Julia Blanchard](https://www.utas.edu.au/profiles/staff/imas/julia-blanchard) at the [Institute of Marine and Antarctic Studies](https://www.imas.utas.edu.au/), [University of Tasmania](https://www.utas.edu.au/)

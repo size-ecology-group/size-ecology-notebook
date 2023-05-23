@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "",
     "section": "",
-    "text": "This lab notebook is a collaborative effort by all size ecology lab members led by Prof Julia Blanchard at the Institute for Marine and Antarctic Studies, University of Tasmania. This lab notebook includes information on lab meetings, administration, data-storage, open data-science, R programming, Mizer R package, writing skills and GitHub.\n\n\ninsert any if necessary"
+    "text": "This lab notebook is a collaborative effort by all size ecology lab members led by Prof Julia Blanchard at the Institute for Marine and Antarctic Studies, University of Tasmania. This lab notebook includes information on lab meetings, administration, data-storage, open data-science, R programming, Mizer R package, writing skills and GitHub.\n\n\nThis lab notebook is a collaborative effort by all members of the Size ecology lab led by Prof Julia Blanchard at the Institute of Marine and Antarctic Studies, University of Tasmania"
   },
   {
     "objectID": "index.html#acknowledgements",
@@ -39,7 +39,7 @@
     "href": "toolsintro.html",
     "title": "Introduction to different data analysis and visualisation tools",
     "section": "",
-    "text": "insert short on different apps and tools the lab groups use\nContributors: Julia, Rich, Asta,"
+    "text": "insert short intro on different apps and tools the lab groups use\nContributors: Julia, Rich, Asta?"
   },
   {
     "objectID": "usefultools.html#r-programmingr-studio",
