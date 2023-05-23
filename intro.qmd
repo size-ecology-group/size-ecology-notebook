@@ -11,13 +11,13 @@ Size ecology lab members work on a diverse range of topics.
 Size ecology lab group currently meets every week on wednesdays at 11am.
 We alternate between informal coffee catchups and focussed meetings.
 The latter is quite open ended and topics can range from upskilling sessions on Github, Mizer (know more about Mizer here).
-It also provides an opportunity for people to practice their presentations, etc.,
+It also provides an opportunity for people to practice their presentations
 
 ## General administration
 
-For any general issues, please contact Julia Blanchard (insert email).
+For any general issues, please contact Julia Blanchard (julia.blanchard\@utas.edu.au)
 
-To organise any presentations, general discussions or simply make suggestions on the weekly lab meetings, please contact Sowdamini
+To organise any presentations, general discussions or simply make suggestions on the weekly lab meetings, please contact Sowdamini (sowdamini.seshaprasad\@utas.edu.au)
 
 ### Lab communication
 
@@ -28,46 +28,6 @@ If you want to be added to this list, send Sowdamini an email.
 
 #### Informal chit chats/IMs:
 
-We currently have a zoom channel and slack (ok with J re slack channel first)
+We currently have a zoom channel and slack (https://sizeecologylab.slack.com)
 
-### Code of Conduct
-
-#### Ethos
-
-We are here to learn and grow as scientists.
-Fostering a fun, welcoming, and supportive research environment is fundamental to this aim.
-
-#### Collaboration
-
-Diversity is our strength.
-We are a group founded on diverse scientific and personal backgrounds.
-We recognise that collaboration among, and constructive feedback from, a range of perspectives makes our science stronger and allows us to grow as researchers.
-
-#### Respect
-
-Healthy debate and constructive criticism are core to rigorous science.
-Respectful dialogue is always encouraged.
-Unprofessional and personal criticisms, bullying, harassment, or any behaviours which isolate or actively damage the confidence of others are not tolerated.
-We are here to support each other as scientists and recognise that we all continue to grow and evolve in our knowledge and skillsets no matter what career stage.
-
-#### Communication and Transparency
-
-Open and honest communication is key to a healthy work environment. 
-We encourage treating others' actions and words with generosity.
-Providing somebody the opportunity to clarify a comment can be an effective way to prevent interpersonal issues in the first instance.
-Should an issue be unresolved among parties, please feel free to talk to a trusted lab member or supervisor to help provide guidance.
-We want to ensure we create a space where everyone feels safe and supported.
-
-#### Scientific integrity
-
-Open and reproducible science increases trust in science and accelerates discovery.
-We believe in open science principles and aim to foster academic inquisitiveness and rigour irrespective of the result.
-There is never a reason to falsely manipulate, steal, or hide data and findings.
-
-#### Healthy researchers, healthy research
-
-A good work-life balance means you have harmony between different aspects of your life.
-The benefits gained from each area support and strengthen the others.
-We believe that a good work-life balance is instrumental to your overall wellbeing and recognise that 'work-life balance' means different things to different people, so, we encourage you to discuss your individual needs[\[RC1\]](#_msocom_1)  and arrangements to facilitate a work-life balance arrangement that works best for you.
-The university has various types of support available to help employees and students navigate the stress of daily life and academia.
-A compilation of resources and contacts is [here](https://universitytasmania-my.sharepoint.com/:x:/g/personal/julia_blanchard_utas_edu_au/EaxVaVhr6i9MnRYiUDmXhRcB1C-wnojbu3v_yazRm1qF_Q?e=BlMB1c).
+### 
