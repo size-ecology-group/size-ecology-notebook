@@ -25,10 +25,28 @@ book:
     - part: researchapproaches.qmd
       chapters:
         - reproduciblescience.qmd
+        - collabresources.qmd
+    - part: ecomodelling.qmd
+      chapters:
+        - mizer.qmd
+        - thermizer.qmd
+        - fishMIP.qmd
+        - globalecology.qmd
+    - part: exptresearch.qmd
+      chapters:
+        - aquaculturemodelling.qmd
+    - part: fieldresearch.qmd
+      chapters:
+        - aquaculturetrials.qmd
+    - part: commsintro.qmd
+      chapters:
+        - scicomm.qmd
+        - datatools.qmd
+
 format:
   html:
     theme:
-      - cosmo
+      - flatly
 
     code-link: true
 

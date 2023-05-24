@@ -124,5 +124,19 @@
     "title": "5  Useful tools",
     "section": "5.4 Github",
     "text": "5.4 Github\nContributors: Add names here"
+  },
+  {
+    "objectID": "reproduciblescience.html",
+    "href": "reproduciblescience.html",
+    "title": "5  Reproducible science",
+    "section": "",
+    "text": "add notes from open science discussions"
+  },
+  {
+    "objectID": "commsintro.html",
+    "href": "commsintro.html",
+    "title": "Useful resources to help with writing",
+    "section": "",
+    "text": "Sayer : https://doi.org/10.1111/1365-2435.13391\nHotaling: https://doi.org/10.1002/lol2.10165\nTurbek et al. https://doi.org/10.1002/bes2.1258"
   }
 ]

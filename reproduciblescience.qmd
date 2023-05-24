@@ -1,17 +1,5 @@
 ---
-title: "Useful tools"
+title: "Reproducible science"
 ---
 
-Insert website links and descriptions
-
-## R programming/R studio:
-
-Most of us use R programming for data analysis and visualisation (edit and expand)
-
-## tidyverse
-
-## Mizer, Thermizer
-
-## Github
-
-Contributors: Add names here
+*add notes from open science discussions*

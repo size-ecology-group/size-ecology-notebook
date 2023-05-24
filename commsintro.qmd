@@ -1,0 +1,9 @@
+---
+title: "Useful resources to help with writing"
+---
+
+-   Sayer : [**https://doi.org/10.1111/1365-2435.13391**](https://doi.org/10.1111/1365-2435.13391)
+
+-   Hotaling: [**https://doi.org/10.1002/lol2.10165**](https://doi.org/10.1002/lol2.10165)
+
+-   Turbek et al. [**https://doi.org/10.1002/bes2.1258**](https://doi.org/10.1002/bes2.1258)
