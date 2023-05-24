@@ -1,24 +1,24 @@
 ### Code of Conduct
 
-#### Ethos
+**Ethos**
 
 We are here to learn and grow as scientists.
 Fostering a fun, welcoming, and supportive research environment is fundamental to this aim.
 
-#### Collaboration
+**Collaboration**
 
 Diversity is our strength.
 We are a group founded on diverse scientific and personal backgrounds.
 We recognise that collaboration among, and constructive feedback from, a range of perspectives makes our science stronger and allows us to grow as researchers.
 
-#### Respect
+**Respect**
 
 Healthy debate and constructive criticism are core to rigorous science.
 Respectful dialogue is always encouraged.
 Unprofessional and personal criticisms, bullying, harassment, or any behaviours which isolate or actively damage the confidence of others are not tolerated.
 We are here to support each other as scientists and recognise that we all continue to grow and evolve in our knowledge and skillsets no matter what career stage.
 
-#### Communication and Transparency
+**Communication and Transparency**
 
 Open and honest communication is key to a healthy work environment. 
 We encourage treating others' actions and words with generosity.
@@ -26,13 +26,13 @@ Providing somebody the opportunity to clarify a comment can be an effective way 
 Should an issue be unresolved among parties, please feel free to talk to a trusted lab member or supervisor to help provide guidance.
 We want to ensure we create a space where everyone feels safe and supported.
 
-#### Scientific integrity
+**Scientific integrity**
 
 Open and reproducible science increases trust in science and accelerates discovery.
 We believe in open science principles and aim to foster academic inquisitiveness and rigour irrespective of the result.
 There is never a reason to falsely manipulate, steal, or hide data and findings.
 
-#### Healthy researchers, healthy research
+**Healthy researchers, healthy research**
 
 A good work-life balance means you have harmony between different aspects of your life.
 The benefits gained from each area support and strengthen the others.

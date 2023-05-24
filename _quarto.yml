@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: _book
+  output-dir: docs
 
 book:
   title: "Size ecology lab notebook"
@@ -22,9 +22,9 @@ book:
     - usefullinks.qmd
     - codeofconduct.qmd
     - sizeecology.qmd
-    - part: toolsintro.qmd
+    - part: researchapproaches.qmd
       chapters:
-        - usefultools.qmd
+        - reproduciblescience.qmd
 format:
   html:
     theme:
