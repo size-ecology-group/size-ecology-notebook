@@ -2,6 +2,7 @@
 title: "What is size based ecology?"
 ---
 
-Insert blurb on size based ecology: Julia and anyone else who uses Size based modelling
+Is there a way to keep this synced with main?
+Is it easier for people to edit files in main and then do a "pull request" from the main branch?
 
 Contributors: add names here
