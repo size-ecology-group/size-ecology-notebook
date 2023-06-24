@@ -62,14 +62,14 @@ d=10.1371/journal.pcbi.1005510
 
 *Overall impressions*
 
-Following reading Wilson et al 2017 \'Good enough practices in scientific computing\' https://journals.plos.org/ploscompbiol/article?i
+Following reading Wilson et al 2017 'Good enough practices in scientific computing' https://journals.plos.org/ploscompbiol/article?i
 d=10.1371/journal.pcbi.1000424#s6 it is clear we are doing some of these things already (as in meeting one) which is positive.
 
 Ways we store our data:
 
 We are backing up raw data and storing it in an unadulterated form.
 Where we store the raw data depends on our need.
-For example, Freddie will store all raw data within the R project file, whereas Rich will store it externally so there isn\'t duplication of the datasets across projects (a space constraint specific to the data being used).
+For example, Freddie will store all raw data within the R project file, whereas Rich will store it externally so there isn't duplication of the datasets across projects (a space constraint specific to the data being used).
 
 Ways we share our methods:
 
@@ -87,7 +87,7 @@ Things we liked from the paper:
 
 • Highlighting the importance of the ReadMe file for documenting what people need to do on accessing your code and storage
 
-• The importance of shifting the naming convention for figures away from numbering (i.e. Fig_1, Fig_2) to a descriptive label that doesn\'t need to be changed when the figure has been
+• The importance of shifting the naming convention for figures away from numbering (i.e. Fig_1, Fig_2) to a descriptive label that doesn't need to be changed when the figure has been
 
 *•* Providing a file structure that could be applied by someone who wanted to try shifting the organisational
 

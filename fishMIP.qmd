@@ -1,3 +1,7 @@
 ---
 title: "fishMIP"
 ---
+
+The Fisheries and Marine Ecosystem Model Intercomparison Project ([Fish-MIP](https://fish-mip.github.io/)) is part of a wider climate impact model community- [ISIMIP](https://www.isimip.org/).
+
+The goal is to bring together disparate marine ecosystem models to help better understand and project the long-term impacts of climate change on fisheries and marine ecosystems, and to use our findings to help inform policy.
